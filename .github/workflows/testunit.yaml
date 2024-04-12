@@ -32,5 +32,5 @@ jobs:
         with:
           destination_branch: 'master'
           github_token: ${{ secrets.ACCESSTOKEN }}
-          pr_label: 'test pr'
-          pr_title: 'test pr'
+          pr_label: 'test p'
+          pr_title: 'test p'
